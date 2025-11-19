@@ -48,3 +48,21 @@ This repository contains a simple and clean React-based UI layout, organized int
 - React.js – Component-based UI development
 - JavaScript (ES6+) – Logic and component structures
 - CSS3 – Styling and layout design
+
+## 📁 Project Structure
+
+├── README.md
+
+├── conainerr.jsx
+
+├── footer.jsx
+
+├── header.jsx
+
+├── main.jsx
+
+├── sidebar.jsx
+
+├── style1.css
+
+└── total.jsx
